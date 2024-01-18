@@ -14,4 +14,6 @@ An imprecise localization can greatly impact subsequent decision-making to manag
 
 ## Learning Materials
 - [A review of visual SLAM methods for autonomous driving vehicles](https://www.sciencedirect.com/science/article/pii/S0952197622001853), J. Cheng, L. Zhang, Q. Chen, X. Hu, and J. Cai
-- [Stereo Visual SLAM for Autonomous Vehicles: A Review](https://ieeexplore.ieee.org/abstract/document/9283161), Boyu Gao, Haoxiang Lang, Jing Ren
+- [Stereo Visual SLAM for Autonomous Vehicles: A Review](https://ieeexplore.ieee.org/abstract/document/9283161), Boyu Gao, Haoxiang Lang, and Jing Ren
+- [A Comprehensive Survey of Visual SLAM Algorithms](https://www.mdpi.com/2218-6581/11/1/24), A Macario Barros, M Michel, and Y Moline
+- [A survey of state-of-the-art on visual SLAM](https://www.sciencedirect.com/science/article/pii/S0957417422010156), IA Kazerouni, L Fitzgerald, G Dooly, and D Toal
