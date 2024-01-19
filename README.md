@@ -21,4 +21,5 @@ An imprecise localization can greatly impact subsequent decision-making to manag
 - [A survey of state-of-the-art on visual SLAM](https://www.sciencedirect.com/science/article/pii/S0957417422010156), IA Kazerouni, L Fitzgerald, G Dooly, and D Toal
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-## 
+## Some Representative Relevant Papers
+As shown in the image in [At a Glance](#at-a-glance) section, VSLAM can provide effective solutions to the difficulties encountered by HAVs or AVs in complex urban environments. In this section, we provide links to some representative literature on these solutions.
