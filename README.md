@@ -22,4 +22,12 @@ An imprecise localization can greatly impact subsequent decision-making to manag
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Some Representative Relevant Papers
-As shown in the image in [At a Glance](#at-a-glance) section, VSLAM can provide effective solutions to the difficulties encountered by HAVs or AVs in complex urban environments. In this section, we provide links to some representative literature on these solutions.
+As shown in the image in [At a Glance](#at-a-glance) section, VSLAM can provide effective solutions to the difficulties encountered by HAVs or AVs in complex urban environments. In this section, we provide links to some representative papers on these solutions.
+
+**Multi-dynamic processing ability**
+- [DE‐SLAM: SLAM for highly dynamic environment](https://onlinelibrary.wiley.com/doi/abs/10.1002/rob.22062)
+- [Edge assisted mobile semantic visual slam](https://ieeexplore.ieee.org/abstract/document/9155438)
+- [DOT: Dynamic object tracking for visual SLAM](https://ieeexplore.ieee.org/abstract/document/9561452)
+- [DP-SLAM: A visual SLAM with moving probability towards dynamic environments](https://www.sciencedirect.com/science/article/abs/pii/S0020025520311841)
+- [VDO-SLAM: a visual dynamic object-aware SLAM system](https://arxiv.org/abs/2005.11052)
+- [DynaSLAM II: Tightly-coupled multi-object tracking and SLAM](https://ieeexplore.ieee.org/abstract/document/9385844)
