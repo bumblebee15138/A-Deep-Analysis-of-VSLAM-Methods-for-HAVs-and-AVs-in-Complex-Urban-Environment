@@ -4,6 +4,7 @@ A review to serve as a timely update on recent progresses and advances in VSLAM 
 ## Table of Contents
 - [At a Glance](#at-a-glance)
 - [Learning Materials](#learning-materials)
+- [Some Representative Relevant Papers](#some-representative-relevant-papers)
   
 ## At a Glance
 An imprecise localization can greatly impact subsequent decision-making to manage an HAV or AV’s motion (planning and control tasks). In recent years, visual simultaneous localization and mapping (VSLAM) has shown substantial progress and equipping it can lead to handling non-standardized situations of real-world scenes and achieving higher localization and mapping accuracy. In this article, we present a comprehensive analysis of the current research status of VSLAM and its potential application to HAVs or AVs operating in complex urban environments. We will publish our article in the future, and more details can be found in our article.
@@ -46,3 +47,13 @@ As shown in the image in [At a Glance](#at-a-glance) section, VSLAM can provide 
 - [Learning whole-image descriptors for real-time loop detection and kidnap recovery under large viewpoint difference](https://www.sciencedirect.com/science/article/abs/pii/S0921889021000981)
 - [Gn-net: The gauss-newton loss for multi-weather relocalization](https://ieeexplore.ieee.org/abstract/document/8954808)
 - [Tight integration of feature-based relocalization in monocular direct visual odometry](https://ieeexplore.ieee.org/abstract/document/9561217)
+
+**Long-term operation ability and crowd-sourced mapping**
+- [Continual slam: Beyond lifelong simultaneous localization and mapping through continual learning](https://link.springer.com/chapter/10.1007/978-3-031-25555-7_3)
+- [Airloop: Lifelong loop closure detection](https://ieeexplore.ieee.org/abstract/document/9811658)
+- [Sharing visual-inertial data for collaborative decentralized simultaneous localization and mapping](https://www.sciencedirect.com/science/article/abs/pii/S0921889021002177)
+- [Crowdsourced Road Semantics Mapping Based on Pixel-Wise Confidence Level](https://link.springer.com/article/10.1007/s42154-021-00173-x)
+- [Graph optimization methods for large-scale crowdsourced mapping](https://ieeexplore.ieee.org/abstract/document/9190292)
+- [Hierarchical Loop Closure Detection for Long-term Visual SLAM with Semantic-Geometric Descriptors](https://ieeexplore.ieee.org/abstract/document/9564866)
+
+<p align="right">(<a href="#top">back to top</a>)</p>
