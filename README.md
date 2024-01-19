@@ -31,3 +31,13 @@ As shown in the image in [At a Glance](#at-a-glance) section, VSLAM can provide 
 - [DP-SLAM: A visual SLAM with moving probability towards dynamic environments](https://www.sciencedirect.com/science/article/abs/pii/S0020025520311841)
 - [VDO-SLAM: a visual dynamic object-aware SLAM system](https://arxiv.org/abs/2005.11052)
 - [DynaSLAM II: Tightly-coupled multi-object tracking and SLAM](https://ieeexplore.ieee.org/abstract/document/9385844)
+
+**Large-scale mapping ability**
+- [Camvox: A low-cost and accurate lidar-assisted visual slam system](https://ieeexplore.ieee.org/abstract/document/9561149)
+- [A light-weight semantic map for visual localization towards autonomous driving](https://ieeexplore.ieee.org/abstract/document/9561663)
+- [Probabilistic semantic mapping for urban autonomous driving applications](https://ieeexplore.ieee.org/abstract/document/9341738)
+- [Towards open world nerf-based slam](https://ieeexplore.ieee.org/abstract/document/10229827)
+- [Lightweight semantic mesh mapping for autonomous vehicles](https://ieeexplore.ieee.org/abstract/document/9560996)
+- [A semantic SLAM-based dense mapping approach for large-scale dynamic outdoor environment](https://www.sciencedirect.com/science/article/abs/pii/S0263224122011976)
+
+**Large-scale mapping ability**
