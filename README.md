@@ -40,4 +40,9 @@ As shown in the image in [At a Glance](#at-a-glance) section, VSLAM can provide 
 - [Lightweight semantic mesh mapping for autonomous vehicles](https://ieeexplore.ieee.org/abstract/document/9560996)
 - [A semantic SLAM-based dense mapping approach for large-scale dynamic outdoor environment](https://www.sciencedirect.com/science/article/abs/pii/S0263224122011976)
 
-**Large-scale mapping ability**
+**Scene recognition ability**
+- [A novel lidar-assisted monocular visual SLAM framework for mobile robots in outdoor environments](https://ieeexplore.ieee.org/abstract/document/9826793)
+- [Improving visual SLAM in car-navigated urban environments with appearance maps](https://ieeexplore.ieee.org/abstract/document/9341451)
+- [Learning whole-image descriptors for real-time loop detection and kidnap recovery under large viewpoint difference](https://www.sciencedirect.com/science/article/abs/pii/S0921889021000981)
+- [Gn-net: The gauss-newton loss for multi-weather relocalization](https://ieeexplore.ieee.org/abstract/document/8954808)
+- [Tight integration of feature-based relocalization in monocular direct visual odometry](https://ieeexplore.ieee.org/abstract/document/9561217)
