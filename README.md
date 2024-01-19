@@ -5,6 +5,7 @@ A review to serve as a timely update on recent progresses and advances in VSLAM 
 - [At a Glance](#at-a-glance)
 - [Learning Materials](#learning-materials)
 - [Some Representative Relevant Papers](#some-representative-relevant-papers)
+- [Future challenges of autonomous driving and VSLAM](#future-challenges-of-autonomous-driving-and-vslam)
   
 ## At a Glance
 An imprecise localization can greatly impact subsequent decision-making to manage an HAV or AV’s motion (planning and control tasks). In recent years, visual simultaneous localization and mapping (VSLAM) has shown substantial progress and equipping it can lead to handling non-standardized situations of real-world scenes and achieving higher localization and mapping accuracy. In this article, we present a comprehensive analysis of the current research status of VSLAM and its potential application to HAVs or AVs operating in complex urban environments. We will publish our article in the future, and more details can be found in our article.
@@ -58,3 +59,11 @@ As shown in the image in [At a Glance](#at-a-glance) section, VSLAM can provide 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
+## Future challenges of autonomous driving and VSLAM
+We have provided links to articles about the future development and challenges of autonomous driving and VSLAM for your reference.
+- [Recent advancements in end-to-end autonomous driving using deep learning: A survey](https://ieeexplore.ieee.org/abstract/document/10258330)
+- [Collaborative perception in autonomous driving: Methods, datasets and challenges](https://arxiv.org/abs/2301.06262)
+- [Present and future of SLAM in extreme environments: The DARPA subT challenge](https://ieeexplore.ieee.org/abstract/document/10286080/)
+- [Robust SLAM systems: Are we there yet?](https://ieeexplore.ieee.org/abstract/document/9636814)
+
+  <p align="right">(<a href="#top">back to top</a>)</p>
