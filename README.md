@@ -69,6 +69,8 @@ We have provided links to articles about the future development and challenges o
 
   <p align="right">(<a href="#top">back to top</a>)</p>
 
+## The rest of the content will be updated continuously
+
 ## Citation
 We will publish the citation information after the article is published.
 
