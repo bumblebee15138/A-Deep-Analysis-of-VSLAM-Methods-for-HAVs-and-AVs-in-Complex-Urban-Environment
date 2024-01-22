@@ -61,6 +61,9 @@ As shown in the image in [At a Glance](#at-a-glance) section, VSLAM can provide 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
+## Benchmarks related to VSLAM and autonomous driving
+- [The KITTI vision benchmark suite](www.cvlibs.net/datasets/kitti)
+
 ## Future challenges of autonomous driving and VSLAM
 We have provided links to articles about the future development and challenges of autonomous driving and VSLAM for your reference.
 - [Recent advancements in end-to-end autonomous driving using deep learning: A survey](https://ieeexplore.ieee.org/abstract/document/10258330)
