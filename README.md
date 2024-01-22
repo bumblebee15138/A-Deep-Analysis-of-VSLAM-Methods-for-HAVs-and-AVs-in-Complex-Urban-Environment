@@ -5,6 +5,7 @@ A review to serve as a timely update on recent progresses and advances in VSLAM 
 - [At a Glance](#at-a-glance)
 - [Learning Materials](#learning-materials)
 - [Some Representative Relevant Papers](#some-representative-relevant-papers)
+- [Datasets related to VSLAM and autonomous driving in urban environments](#datasets related to vslam and autonomous driving in urban environments)
 - [Future challenges of autonomous driving and VSLAM](#future-challenges-of-autonomous-driving-and-vslam)
 - [Citation](#citation)
   
@@ -61,8 +62,18 @@ As shown in the image in [At a Glance](#at-a-glance) section, VSLAM can provide 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-## Benchmarks related to VSLAM and autonomous driving
-- [The KITTI vision benchmark suite](www.cvlibs.net/datasets/kitti)
+## Datasets related to VSLAM and autonomous driving in urban environments
+- [KITTI Dataset](https://www.cvlibs.net/)
+- [KAIST Day/Night Dataset](https://sites.google.com/view/multispectral/home)
+- [Complex Urban](http://irap.kaist.ac.kr/dataset/)
+- [Zurich Urban Micro Aerial Vehicle Dataset](http://rpg.ifi.uzh.ch/zurichmavdataset.html)
+- [CityScapes Dataset](https://www.cityscapes-dataset.com/)
+- [Oxford Robotcar Dataset](http://robotcar-dataset.robots.ox.ac.uk/)
+- [Cambridge Landmark Dataset](http://mi.eng.cam.ac.uk/projects/relocalisation/)
+- [Multi-Robot Cooperative Localization and Mapping Dataset](http://asrl.utias.utoronto.ca/datasets/mrclam/)
+- [Nuscenes dataset](https://www.nuscenes.org/)
+
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Future challenges of autonomous driving and VSLAM
 We have provided links to articles about the future development and challenges of autonomous driving and VSLAM for your reference.
