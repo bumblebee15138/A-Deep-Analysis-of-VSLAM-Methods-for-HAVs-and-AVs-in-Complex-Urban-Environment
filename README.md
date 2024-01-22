@@ -5,7 +5,7 @@ A review to serve as a timely update on recent progresses and advances in VSLAM 
 - [At a Glance](#at-a-glance)
 - [Learning Materials](#learning-materials)
 - [Some Representative Relevant Papers](#some-representative-relevant-papers)
-- [Datasets related to VSLAM and autonomous driving in urban environments](#datasets related to vslam and autonomous driving in urban environments)
+- [Datasets related to VSLAM and autonomous driving in urban environments](#datasets-related-to-vslam-and-autonomous-driving-in-urban-environments)
 - [Future challenges of autonomous driving and VSLAM](#future-challenges-of-autonomous-driving-and-vslam)
 - [Citation](#citation)
   
