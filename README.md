@@ -65,13 +65,13 @@ As shown in the image in [At a Glance](#at-a-glance) section, VSLAM can provide 
 ## Datasets related to VSLAM and autonomous driving in urban environments
 - [KITTI Dataset](https://www.cvlibs.net/)
 - [KAIST Day/Night Dataset](https://sites.google.com/view/multispectral/home)
-- [Complex Urban](http://irap.kaist.ac.kr/dataset/)
+- [Complex Urban Dataset](http://irap.kaist.ac.kr/dataset/)
 - [Zurich Urban Micro Aerial Vehicle Dataset](http://rpg.ifi.uzh.ch/zurichmavdataset.html)
 - [CityScapes Dataset](https://www.cityscapes-dataset.com/)
 - [Oxford Robotcar Dataset](http://robotcar-dataset.robots.ox.ac.uk/)
 - [Cambridge Landmark Dataset](http://mi.eng.cam.ac.uk/projects/relocalisation/)
 - [Multi-Robot Cooperative Localization and Mapping Dataset](http://asrl.utias.utoronto.ca/datasets/mrclam/)
-- [Nuscenes dataset](https://www.nuscenes.org/)
+- [Nuscenes Dataset](https://www.nuscenes.org/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
